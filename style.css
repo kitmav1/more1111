@@ -1,0 +1,11 @@
+div {
+    display: flex;
+    border:5px dashed rgb(42, 42, 196);
+    justify-content:space-around;
+    padding: 10px ;
+}
+.gallery-img{width: 199px;
+text-align: center;}
+p{color:blue}
+header{background-color: aqua;
+text-align: center;}
